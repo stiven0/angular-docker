@@ -1,4 +1,4 @@
-![docker_angular](https://api.binary-coffee.dev/uploads/4b3937411c2043a79d1517b8172d40ad.png)
+![docker_angular_nginx](https://miro.medium.com/max/900/1*Cc1X8aWvAXyEwEhuNWZp9g.png)
 
 # Ejemplo basico sobre integracion de Angular y Docker montado sobre nginx
 
